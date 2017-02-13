@@ -18,10 +18,13 @@ The output of the program will be:
 We enter __1__ again. Then it will ask us for our 3rd group and put __7__.
 Now, the program should print out the following lines:
 
-`a | b | c
-a | b | c
-s | t | u
-Which column is the letter 1 of your guess (count starts from 1): `
+`a | b | c`
+
+`a | b | c`
+
+`s | t | u`
+
+`Which column is the letter 1 of your guess (count starts from 1): `
 
 We enter __3__ as __c__ in in the 3rd column. It will ask us for our second column, we input __1__.
 It will finally ask for our 3rd column, we input __2__.
