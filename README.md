@@ -3,18 +3,18 @@ A word guessing game that is 100% right all the time
 
 ## How it works:
 
-Suppose the work we have in mind is __'cat'__ .
+Suppose the word we have in mind is __'cat'__ .
 The program will ask us 
 
 `How many letters are there in your word? : `
 
-We enter __3__ . The output on the program will look something like:
+We enter __3__ . The output on the program will look like:
 
 `[['a', 'b', 'c'], ['d', 'e', 'f'], ['g', 'h', 'i'], ['j', 'k', 'l'], ['m', 'n', 'o'], ['p', 'q', 'r'], ['s', 't', 'u'], ['v', 'w', 'x'], ['y', 'z']]`
 
 `Which group is the letter 1 of your guess (count starts from 1): `
 
-Since __c__ in in the first group, we enter __1__
+Since __c__ in the first group, we enter __1__
 The output of the program will be:
 
 `Which group is the letter 2 of your guess (count starts from 1): `
